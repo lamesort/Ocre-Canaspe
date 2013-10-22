@@ -1,0 +1,4 @@
+
+
+Pour compiler taper :  make or make ocr
+Pour executer taper : ./main $IMAGE PATH$

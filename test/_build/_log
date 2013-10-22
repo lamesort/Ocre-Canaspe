@@ -1,0 +1,6 @@
+### Starting build.
+# Target: main.ml.depends, tags: { extension:ml, file:main.ml, ocaml, ocamldep, package(sdl), package(sdl.sdlimage), quiet, traverse }
+ocamlfind ocamldep -package sdl -package sdl.sdlimage -modules main.ml > main.ml.depends
++ ocamlfind ocamldep -package sdl -package sdl.sdlimage -modules main.ml > main.ml.depends
+Command got signal -8.
+# Compilation unsuccessful.
