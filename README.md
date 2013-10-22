@@ -1,4 +1,4 @@
 Ocre-Canaspe
 ============
 
-Jean-Jacques Goldman
+An incredible Optical character recognition!!!
